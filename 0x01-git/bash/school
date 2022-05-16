@@ -1,0 +1,5 @@
+#
+cat << EOF > school
+#!/bin/bash
+
+echo "The school is open!"
